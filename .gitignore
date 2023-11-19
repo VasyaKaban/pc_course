@@ -1,0 +1,7 @@
+sdk/*
+server_out/*
+client_out/*
+build_client/*
+build_server/*
+pc_course_server/CMakeLists.txt.user
+pc_course_client/CMakeLists.txt.user
